@@ -4,7 +4,6 @@ rinpy
 rinpy is BDD Test Framework for python. inspired mocha.
 
 **Currently Under Development.**
-=====================================
 
 
 Sample
