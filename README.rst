@@ -3,11 +3,13 @@ rinpy
 ==================
 rinpy is BDD Test Framework for python. inspired mocha.
 
-** Currently Under Development. **
+**Currently Under Development.**
+=====================================
+
 
 Sample
 ----------
-.. ..code-block:: python
+::
 
     @describe("A")
     class TestA:
@@ -28,6 +30,7 @@ Sample
         pip install rinpy
 
 
-How to use
----------------
-* class name contain Test, and method name contain test.
+..
+    How to use
+    ---------------
+    * class name contain Test, and method name contain test.
