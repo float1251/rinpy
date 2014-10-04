@@ -5,10 +5,12 @@ rinpy is BDD Test Framework for python. inspired mocha.
 
 **Currently Under Development.**
 
-
 Sample
 ----------
 ::
+
+    from rin import describe, it
+
 
     @describe("A")
     class TestA:
